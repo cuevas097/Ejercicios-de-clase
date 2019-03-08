@@ -12,10 +12,10 @@ Autor: Carlos Cuevas Salgado
 		   Moverse en el eje Y : Q - Arriba, Z - Abajo
 		   Moverse en el eje Z : W - Arriba, S - Abajo
 		   Rotar a la figura se ocupan las teclas de navegacion
-		   Para mover el hombro se ocupa    la tecla T o T + shift
-		   Para mover el bicep se ocupa     la tecla Y o Y + shift
-		   Para movel el antebraso se ocupa la tecla U o U + shift
-		   Para mover los dedos se ocupa    la tecla I o I + shift 
+		   Para mover el hombro se ocupa        la tecla T o T + shift
+		   Para mover el antebrazo se ocupa     la tecla Y o Y + shift
+		   Para movel el mano se ocupa          la tecla U o U + shift
+		   Para mover los dedos se ocupa        la tecla I o I + shift 
 
            Se hizo un dibujo de Baymax del juego Crossy Road version Disney usando*/
 #include <glew.h>
